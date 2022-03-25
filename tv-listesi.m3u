@@ -1,3 +1,67 @@
 #EXTM3U
-#EXTINF:0,TRT 1
-http://195.155.98.170:5858/play/a09j?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="TRT1.tr" tvg-logo="https://i.pinimg.com/564x/93/f6/6b/93f66b4b8e610e37904dfcb48cc9e9b3.jpg" group-title="Kanallar",TRT 1
+http://195.155.98.170:5858/play/a09j
+#EXTINF:0 tvg-id="StarTV.tr" tvg-logo="https://i.pinimg.com/564x/62/14/fc/6214fce3a5444b8799da947eca5991fe.jpg" group-title="Kanallar",Star TV
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+#EXTINF:0 tvg-id="ATVTurkiye.tr" tvg-logo="https://i.pinimg.com/564x/34/5e/9c/345e9cd67707215bcc1d188fa45b15fe.jpg" group-title="Kanallar",ATV
+https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8
+#EXTINF:0 tvg-id="KanalD.tr" tvg-logo="https://i.pinimg.com/564x/58/44/d7/5844d79ee800e7056cd48aaec97dc233.jpg" group-title="Kanallar",Kanal D
+https://mn-nl.mncdn.com/blutv_kanald_dvr/live_720p2000000/index.m3u8
+#EXTINF:0 tvg-id="ShowTV.tr" tvg-logo="https://i.pinimg.com/564x/c1/58/da/c158da59484e8bc851069edead283bd1.jpg" group-title="Kanallar",Show TV
+https://mn-nl.mncdn.com/blutv_showtv_dvr/live_720p2000000kbps/index.m3u8
+#EXTINF:0 tvg-id="BeyazTV.tr" tvg-logo="https://i.pinimg.com/564x/80/36/fe/8036fe458fcd9112c839f6cc092917e8.jpg" group-title="Kanallar",Beyaz TV
+https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
+#EXTINF:0 tvg-id="Teve2.tr" tvg-logo="https://i.pinimg.com/236x/66/05/53/660553cfa3106ffab4b428d1d7546de0.jpg" group-title="Kanallar",Teve 2
+https://mn-nl.mncdn.com/blutv_teve22/live.m3u8
+#EXTINF:0 tvg-id="Kanal7.tr" tvg-logo="https://i.pinimg.com/564x/0b/4a/e7/0b4ae78bd8ff7dbfb24ede74744e646b.jpg" group-title="Kanallar",Kanal 7
+https://mn-nl.mncdn.com/blutv_kanal72/live.m3u8
+#EXTINF:0 tvg-id="TV8.tr" tvg-logo="https://i.pinimg.com/564x/a0/47/3e/a0473e894af6eaa1a9c2818cd0c26d3b.jpg" group-title="Kanallar",TV 8
+http://190.2.148.141:80/bar1118/index.m3u8
+#EXTINF:0 tvg-id="360.tr" tvg-logo="https://i.pinimg.com/736x/38/21/64/3821649bd71d9650950d53db7cc6103b.jpg" group-title="Kanallar",360
+http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b3128000.m3u8
+#EXTINF:0 tvg-id="FoxTurkiye.us" tvg-logo="https://i.pinimg.com/736x/f7/81/24/f781243a95e9b95083a438a67a23e690.jpg" group-title="Kanallar",Fox TV
+https://mn-nl.mncdn.com/blutv_foxtv_dvr/live_720p2000000kbps/index.m3u8
+#EXTINF:0 tvg-id="TV100.tr" tvg-logo="https://i.pinimg.com/736x/ec/31/a1/ec31a1059f5493d2d8c297a1f513f6a1.jpg" group-title="Kanallar",TV100
+https://mn-nl.mncdn.com/blutv_tv1002/live_720p2000000kbps/index.m3u8
+#EXTINF:0 tvg-id="NTV.tr" tvg-logo="https://i.pinimg.com/564x/20/b1/93/20b193808a2558addb3489cae88b94e2.jpg" group-title="Kanallar",NTV
+https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8
+#EXTINF:0 tvg-id="TRTHaber.tr" tvg-logo="https://i.pinimg.com/564x/4d/6b/67/4d6b671e42bd25273dc263731c43033c.jpg" group-title="Kanallar",TRT Haber
+http://84.22.33.214/TRTHaber/index.m3u8
+#EXTINF:0 tvg-id="CNNTurk.us" tvg-logo="https://i.pinimg.com/564x/60/e3/0f/60e30f49a13ced49592b45c6e55b7e49.jpg" group-title="Kanallar",CNN Türk
+https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live_720p2000000kbps/index.m3u8
+#EXTINF:0 tvg-id="UlkeTV.tr" tvg-logo="https://i.pinimg.com/564x/47/63/08/476308817ef049b4f93ba6bc9fd11317.jpg" group-title="Kanallar",Ülke TV
+http://iptvmasterlink.dyndns.org:8080/UlkeTv/playlist.m3u8
+#EXTINF:0 tvg-id="AHaber.tr" tvg-logo="https://i.pinimg.com/564x/8f/ed/1b/8fed1b7dad5de86215e56ee022f74fd9.jpg" group-title="Kanallar",A Haber
+http://mugla.tvizlehd.com/live/ahaber.m3u8
+#EXTINF:0 tvg-id="TGRTHaber.tr" tvg-logo="https://i.pinimg.com/564x/90/56/a2/9056a2dcba2fceee9e2a299c8b98bb59.jpg" group-title="Kanallar",TGRT Haber
+https://mn-nl.mncdn.com/blutv_tgrthaber2/live_720p2000000kbps/index.m3u8
+#EXTINF:0 tvg-id="Haberturk.tr" tvg-logo="https://i.pinimg.com/564x/fd/af/58/fdaf58b9c42647bf21c59ce424af69b8.jpg" group-title="Kanallar",Habertürk
+http://84.22.33.214/HaberTurk/index.m3u8
+#EXTINF:0 tvg-id="24TV.tr" tvg-logo="https://i.pinimg.com/736x/2b/2c/df/2b2cdf61af5b43e870457de19b83e5a8.jpg" group-title="Kanallar",24 TV
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
+#EXTINF:0 tvg-id="TVNet.tr" tvg-logo="https://i.pinimg.com/736x/1d/b7/d3/1db7d3b93ce720569840fa79501d19d6.jpg" group-title="Kanallar",TV Net
+https://tv.ensonhaber.com/tv/tr/tvnet/index.m3u8
+#EXTINF:0 tvg-id="lalegul.tr" tvg-logo="https://i.pinimg.com/564x/66/0b/ef/660bef11a7e0b8b637cad63a92cf675d.jpg" group-title="Kanallar",Lalegül TV
+http://lalegultv.netmedya.net/lalegul-tv/lalegultv.stream/playlist.m3u8
+#EXTINF:0 tvg-id="SemerkandTV.tr" tvg-logo="https://i.pinimg.com/564x/92/8d/43/928d436e8f11cceab72ce4f26e3968c2.jpg" group-title="Kanallar",Semerkand TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/chunklist_b500000.m3u8
+#EXTINF:0 tvg-id="DiyanetTV.tr" tvg-logo="https://i.pinimg.com/736x/21/17/92/211792cb757a710b59aff95a70d5ab3d.jpg" group-title="Kanallar",Diyanet TV
+http://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:0 tvg-id="TRTSpor.tr" tvg-logo="https://i.pinimg.com/736x/7e/f2/45/7ef2457927f102176e8e229451e5abc9.jpg" group-title="Kanallar",TRT Spor
+https://mn-nl.mncdn.com/blutv_trtspor2/live.m3u8
+#EXTINF:0 tvg-id="ASpor.tr" tvg-logo="https://i.pinimg.com/564x/31/a0/48/31a048e3f14d6ebf303994375980e916.jpg" group-title="Kanallar",A Spor
+https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
+#EXTINF:0 tvg-id="BeInSportsHaber.qa" tvg-logo="https://i.pinimg.com/564x/51/69/cb/5169cbbd99d3096c3a120b5e170deeb7.jpg" group-title="Kanallar",BeIN Sports Haber
+http://mugla.tvizlehd.com/live/beinsporthaber.m3u8
+#EXTINF:0 tvg-id="SportsTV.tr" tvg-logo="https://i.pinimg.com/736x/a2/6e/6c/a26e6cdaa435a53463e02288694e7456.jpg" group-title="Kanallar",Sports TV
+https://mn-nl.mncdn.com/blutv_sportstv2/live_720p2000000kbps/index.m3u8
+#EXTINF:0 tvg-id="TRTBelgesel.tr" tvg-logo="https://i.pinimg.com/564x/bc/44/73/bc44734f8f88704ad476f9e89d2df1a1.jpg" group-title="Kanallar",TRT Belgesel
+https://mn-nl.mncdn.com/blutv_trtbelgesel_dvr/live_720p2000000/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="AkilliTV.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/579dbf0e-ec89-4e4a-893a-2cae982a8b99.png" group-title="Kanallar",Akıllı TV
+http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8
+#EXTINF:0 tvg-id="TRTCocuk.tr" tvg-logo="https://i.pinimg.com/564x/1a/e4/83/1ae483ebc66115bf6bec66f7064f8e8e.jpg" group-title="Kanallar",TRT Çocuk
+http://84.22.33.214/TRTCocuk/index.m3u8
+#EXTINF:0 tvg-id="CartoonNetworkTurkiye.us" tvg-logo="https://i.pinimg.com/564x/cf/dc/bb/cfdcbb7232f0556f4080573136fca794.jpg" group-title="Kanallar",Cartoon Network
+http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/playlist.m3u8
+#EXTINF:0 tvg-id="DisneyChannelTurkiye.us" tvg-logo="https://i.pinimg.com/736x/c0/08/80/c00880cda467839c120432ac51bc8e59.jpg" group-title="Kanallar",Disney Channel
+http://iptvmasterlink.dyndns.org:8080/DisneyChannel/playlist.m3u8
