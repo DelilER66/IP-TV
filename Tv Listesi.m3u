@@ -57,7 +57,7 @@ http://proxy.ottoprime.net:80/Muslu/Muslu1/26886
 https://mn-nl.mncdn.com/blutv_sportstv2/live_720p2000000kbps/index.m3u8
 #EXTINF:0 tvg-id="TRTBelgesel.tr" tvg-logo="https://i.pinimg.com/564x/bc/44/73/bc44734f8f88704ad476f9e89d2df1a1.jpg" group-title="Kanallar",TRT Belgesel
 https://mn-nl.mncdn.com/blutv_trtbelgesel_dvr/live_720p2000000/index.m3u8?checkedby:iptvcat.com
-#EXTINF:1 tvg-id="AkilliTV.tr" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/579dbf0e-ec89-4e4a-893a-2cae982a8b99.png" group-title="Kanallar",Akıllı TV
+#EXTINF:1 tvg-id="AkilliTV.tr" tvg-logo="https://i.pinimg.com/236x/7a/71/08/7a710819a31e9bd18262377449fa45f1.jpg" group-title="Kanallar",Akıllı TV
 http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8
 #EXTINF:0 tvg-id="TRTCocuk.tr" tvg-logo="https://i.pinimg.com/564x/1a/e4/83/1ae483ebc66115bf6bec66f7064f8e8e.jpg" group-title="Kanallar",TRT Çocuk
 http://proxy.ottoprime.net:80/Muslu/Muslu1/34676
