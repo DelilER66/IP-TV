@@ -3,7 +3,7 @@
 http://195.155.98.170:5858/play/a09j
 #EXTINF:0 tvg-id="StarTV.tr" tvg-logo="https://i.pinimg.com/564x/62/14/fc/6214fce3a5444b8799da947eca5991fe.jpg" group-title="Kanallar",Star TV
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
-#EXTINF:0 tvg-id="ATVTurkiye.tr" tvg-logo="https://i.pinimg.com/564x/34/5e/9c/345e9cd67707215bcc1d188fa45b15fe.jpg" group-title="Kanallar",ATV
+#EXTINF:0 tvg-id="ATV.tr" tvg-logo="https://i.pinimg.com/564x/34/5e/9c/345e9cd67707215bcc1d188fa45b15fe.jpg" group-title="Kanallar",ATV
 https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8
 #EXTINF:0 tvg-id="KanalD.tr" tvg-logo="https://i.pinimg.com/564x/58/44/d7/5844d79ee800e7056cd48aaec97dc233.jpg" group-title="Kanallar",Kanal D
 https://mn-nl.mncdn.com/blutv_kanald_dvr/live_720p2000000/index.m3u8
