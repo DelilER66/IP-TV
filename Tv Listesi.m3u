@@ -36,7 +36,7 @@ http://vipertv.vip:8080/V4W7hUQa21/FU5nyAQiAj/193771?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="TGRTHaber.tr" tvg-logo="https://i.pinimg.com/564x/90/56/a2/9056a2dcba2fceee9e2a299c8b98bb59.jpg" group-title="Kanallar",TGRT Haber
 https://mn-nl.mncdn.com/blutv_tgrthaber2/live_720p2000000kbps/index.m3u8
 #EXTINF:0 tvg-id="Haberturk.tr" tvg-logo="https://i.pinimg.com/564x/fd/af/58/fdaf58b9c42647bf21c59ce424af69b8.jpg" group-title="Kanallar",Habertürk
-https://ciner-live.ercdn.net/haberturk/haberturk_720p.m3u8?e=1648471909&st=II3CbztNRDxPNZSRi7HCig&tv=1
+https://ciner-live.ercdn.net/haberturk/haberturk_720p.m3u8
 #EXTINF:0 tvg-id="24TV.tr" tvg-logo="https://i.pinimg.com/736x/2b/2c/df/2b2cdf61af5b43e870457de19b83e5a8.jpg" group-title="Kanallar",24 TV
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
 #EXTINF:0 tvg-id="TVNet.tr" tvg-logo="https://i.pinimg.com/736x/1d/b7/d3/1db7d3b93ce720569840fa79501d19d6.jpg" group-title="Kanallar",TV Net
