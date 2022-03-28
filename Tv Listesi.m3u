@@ -63,5 +63,5 @@ http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8
 http://proxy.ottoprime.net:80/Muslu/Muslu1/34676
 #EXTINF:0 tvg-id="CartoonNetworkTurkey.us" tvg-logo="https://i.pinimg.com/564x/cf/dc/bb/cfdcbb7232f0556f4080573136fca794.jpg" group-title="Kanallar",Cartoon Network
 http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/playlist.m3u8
-#EXTINF:0 tvg-id="DisneyChannelTurkey.us" tvg-logo="https://i.pinimg.com/736x/c0/08/80/c00880cda467839c120432ac51bc8e59.jpg" group-title="Kanallar",Disney Channel
+#EXTINF:0 tvg-id="DisneyChannelTurkey.tr" tvg-logo="https://i.pinimg.com/736x/c0/08/80/c00880cda467839c120432ac51bc8e59.jpg" group-title="Kanallar",Disney Channel
 http://iptvmasterlink.dyndns.org:8080/DisneyChannel/playlist.m3u8
