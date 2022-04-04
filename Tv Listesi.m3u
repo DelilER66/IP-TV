@@ -32,7 +32,7 @@ https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:0 tvg-id="UlkeTV.tr" tvg-logo="https://i.pinimg.com/564x/47/63/08/476308817ef049b4f93ba6bc9fd11317.jpg" group-title="Kanallar",Ülke TV
 http://iptvmasterlink.dyndns.org:8080/UlkeTv/playlist.m3u8
 #EXTINF:0 tvg-id="AHaber.tr" tvg-logo="https://i.pinimg.com/564x/8f/ed/1b/8fed1b7dad5de86215e56ee022f74fd9.jpg" group-title="Kanallar",A Haber
-https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_480p.m3u8
+https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8?st=TNDla6zolBbuT5VBL49W2A&e=1649122761
 #EXTINF:0 tvg-id="TGRTHaber.tr" tvg-logo="https://i.pinimg.com/564x/90/56/a2/9056a2dcba2fceee9e2a299c8b98bb59.jpg" group-title="Kanallar",TGRT Haber
 https://mn-nl.mncdn.com/blutv_tgrthaber2/live_720p2000000kbps/index.m3u8
 #EXTINF:0 tvg-id="Haberturk.tr" tvg-logo="https://i.pinimg.com/564x/fd/af/58/fdaf58b9c42647bf21c59ce424af69b8.jpg" group-title="Kanallar",Habertürk
