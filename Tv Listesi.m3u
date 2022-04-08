@@ -61,7 +61,7 @@ https://mn-nl.mncdn.com/blutv_trtbelgesel_dvr/live_720p2000000/index.m3u8?checke
 http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8
 #EXTINF:0 tvg-id="TRTCocuk.tr" tvg-logo="https://i.pinimg.com/564x/1a/e4/83/1ae483ebc66115bf6bec66f7064f8e8e.jpg" group-title="Kanallar",TRT Çocuk
 http://195.155.98.170:5858/play/a09b
-#EXTINF:0 tvg-id="CartoonNetworkTurkey.us" tvg-logo="https://i.pinimg.com/564x/cf/dc/bb/cfdcbb7232f0556f4080573136fca794.jpg" group-title="Kanallar",Cartoon Network
+#EXTINF:0 tvg-id="CartoonNetworkTurkey.tr" tvg-logo="https://i.pinimg.com/564x/cf/dc/bb/cfdcbb7232f0556f4080573136fca794.jpg" group-title="Kanallar",Cartoon Network
 http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/playlist.m3u8
 #EXTINF:0 tvg-id="MinikaGo.tr" tvg-logo="https://i.pinimg.com/236x/8a/59/2d/8a592d42dbe6d711c79681226bb39269.jpg" group-title="Kanallar", Minika Go
 http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8
