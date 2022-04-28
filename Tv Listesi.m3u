@@ -65,3 +65,7 @@ https://tv-trtcocuk.medya.trt.com.tr/master_480.m3u8
 http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/playlist.m3u8
 #EXTINF:0 tvg-id="MinikaGo.tr" tvg-logo="https://i.pinimg.com/236x/8a/59/2d/8a592d42dbe6d711c79681226bb39269.jpg" group-title="Kanallar", Minika Go
 http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdDsVzioWzCjdQL0gGOV9JgyclbG6_fAL0mA&usqp=CAU" group-title="Radyo Tiyatrosu", Abdülkadir-i Geylani
+https://dinimizislam.com/Download/Ses/EvliyalarSerisi/Abdulkadir-iGeylani.mp3
+
