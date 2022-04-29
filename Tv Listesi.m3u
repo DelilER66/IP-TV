@@ -66,6 +66,8 @@ http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/playlist.m3u8
 #EXTINF:0 tvg-id="MinikaGo.tr" tvg-logo="https://i.pinimg.com/236x/8a/59/2d/8a592d42dbe6d711c79681226bb39269.jpg" group-title="Kanallar", Minika Go
 http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdDsVzioWzCjdQL0gGOV9JgyclbG6_fAL0mA&usqp=CAU" group-title="Radyo Tiyatrosu", Abdülkadir-i Geylani
+#EXTINF:0 tvg-logo="https://i.pinimg.com/236x/9d/25/06/9d250630d80031a6b83d0449d4350689.jpg" group-title="Radyo Tiyatrosu", Abdülkadir-i Geylani
 https://dinimizislam.com/Download/Ses/EvliyalarSerisi/Abdulkadir-iGeylani.mp3
+#EXTINF:0 tvg-logo="https://i.pinimg.com/236x/9d/25/06/9d250630d80031a6b83d0449d4350689.jpg" group-title="Radyo Tiyatrosu", Abdullah-i Tercüman
+https://dinimizislam.com/Download/Ses/EvliyalarSerisi/Abdullah-iTercuman.mp3
 
