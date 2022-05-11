@@ -12,7 +12,7 @@ https://mn-nl.mncdn.com/blutv_showtv_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:0 tvg-id="BeyazTV.tr" tvg-logo="https://i.pinimg.com/564x/80/36/fe/8036fe458fcd9112c839f6cc092917e8.jpg" group-title="Kanallar",Beyaz TV
 https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 #EXTINF:0 tvg-id="Teve2.tr" tvg-logo="https://i.pinimg.com/236x/66/05/53/660553cfa3106ffab4b428d1d7546de0.jpg" group-title="Kanallar",Teve 2
-https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_2_550/playlist.m3u8
+https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_2_550/playlist.m3u8?min=0&max=1250&live=true&app=com.tv2
 #EXTINF:0 tvg-id="Kanal7.tr" tvg-logo="https://i.pinimg.com/564x/0b/4a/e7/0b4ae78bd8ff7dbfb24ede74744e646b.jpg" group-title="Kanallar",Kanal 7
 https://mn-nl.mncdn.com/blutv_kanal72/live.m3u8
 #EXTINF:0 tvg-id="TV8.tr" tvg-logo="https://i.pinimg.com/564x/a0/47/3e/a0473e894af6eaa1a9c2818cd0c26d3b.jpg" group-title="Kanallar",TV 8
