@@ -32,7 +32,7 @@ https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:0 tvg-id="UlkeTV.tr" tvg-logo="https://i.pinimg.com/564x/47/63/08/476308817ef049b4f93ba6bc9fd11317.jpg" group-title="Kanallar",Ülke TV
 http://iptvmasterlink.dyndns.org:8080/UlkeTv/playlist.m3u8
 #EXTINF:0 tvg-id="AHaber.tr" tvg-logo="https://i.pinimg.com/564x/8f/ed/1b/8fed1b7dad5de86215e56ee022f74fd9.jpg" group-title="Kanallar",A Haber
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/193771
+https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_480p.m3u8?st=FFZ77-nJWuP-FkMsHFVLdg&e=1654478047
 #EXTINF:0 tvg-id="TGRTHaber.tr" tvg-logo="https://i.pinimg.com/564x/90/56/a2/9056a2dcba2fceee9e2a299c8b98bb59.jpg" group-title="Kanallar",TGRT Haber
 https://mn-nl.mncdn.com/blutv_tgrthaber2/live_720p2000000kbps/index.m3u8
 #EXTINF:0 tvg-id="Haberturk.tr" tvg-logo="https://i.pinimg.com/564x/fd/af/58/fdaf58b9c42647bf21c59ce424af69b8.jpg" group-title="Kanallar",Habertürk
@@ -52,7 +52,7 @@ https://mn-nl.mncdn.com/blutv_trtspor2/live.m3u8
 #EXTINF:0 tvg-id="ASpor.tr" tvg-logo="https://i.pinimg.com/564x/31/a0/48/31a048e3f14d6ebf303994375980e916.jpg" group-title="Kanallar",A Spor
 https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
 #EXTINF:0 tvg-id="BeINSportsHaber.tr" tvg-logo="https://i.pinimg.com/564x/51/69/cb/5169cbbd99d3096c3a120b5e170deeb7.jpg" group-title="Kanallar",BeIN Sports Haber
-http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/129036
+https://rr3---sn-u0g3uxax3-pnu6.googlevideo.com/videoplayback?expire=1654454700&ei=TKWcYt3SD6_Jx_AP85KryAs&ip=151.135.27.13&id=r2vPH7d-_V8.1&itag=140&source=yt_live_broadcast&requiressl=yes&mh=LC&mm=44%2C29&mn=sn-u0g3uxax3-pnu6%2Csn-nv47lnl7&ms=lva%2Crdu&mv=m&mvi=3&pl=21&gcr=tr&initcwndbps=378750&spc=4ocVC3gleE80qnmLSDevC2EWAH2wd0Y&vprv=1&live=1&hang=1&noclen=1&mime=audio%2Fmp4&ns=I6NI8bVQQ_kvgL_4KdDrVeQG&gir=yes&mt=1654432835&fvip=4&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=Utv3_9Fpy10VOQ&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cgcr%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRgIhANIp5ctN0hRMqw63Bch4yAb1pqtKpG4_HdXvBpokyLPwAiEA77UO5VFk9wOjLGiYIlGXfo4qQE2WKZ_J6FwzlM0p9Jc%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgDG3zhvCvluJfnA1zTzM02Ey8qvDrueHiLW7kO-02s6UCIQCxRRMK6ofq8eFzhoybmdKNGwhhz9YQHde9f2BDIQZdcA%3D%3D&alr=yes&cpn=1BhmWslFxXtgDdKn&cver=1.20220531.01.00&headm=2
 #EXTINF:0 tvg-id="TRTSporyildiz.tr" tvg-logo="https://i.pinimg.com/originals/e1/4c/1e/e14c1eea205c4ffcacf401b1736a292c.jpg" group-title="Kanallar",TRT Spor Yıldız
 https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 tvg-id="SportsTV.tr" tvg-logo="https://i.pinimg.com/736x/a2/6e/6c/a26e6cdaa435a53463e02288694e7456.jpg" group-title="Kanallar",Sports TV
