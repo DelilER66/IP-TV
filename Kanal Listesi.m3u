@@ -16,7 +16,7 @@ https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_2_550/playlist.m3u8
 #EXTINF:0 tvg-id="Kanal7.tr" tvg-logo="https://i.pinimg.com/564x/0b/4a/e7/0b4ae78bd8ff7dbfb24ede74744e646b.jpg" group-title="Kanallar",Kanal 7
 https://mn-nl.mncdn.com/blutv_kanal72/live.m3u8
 #EXTINF:0 tvg-id="TV8.tr" tvg-logo="https://i.pinimg.com/564x/a0/47/3e/a0473e894af6eaa1a9c2818cd0c26d3b.jpg" group-title="Kanallar",TV 8
-https://tv8-tb-live.ercdn.net/tv8-geo/tv8hd_480p.m3u8?e=1655646183&st=vzpY0uUg0oHOd7iHYPb1yw
+https://tv8-tb-live.ercdn.net/tv8-geo/tv8hd_480p.m3u8?e=1655646542&st=WYED6PA_36z-Si2ZIkT6LQ
 #EXTINF:0 tvg-id="360.tr" tvg-logo="https://i.pinimg.com/736x/38/21/64/3821649bd71d9650950d53db7cc6103b.jpg" group-title="Kanallar",360
 http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b3128000.m3u8
 #EXTINF:0 tvg-id="FoxTurkey.us" tvg-logo="https://i.pinimg.com/736x/f7/81/24/f781243a95e9b95083a438a67a23e690.jpg" group-title="Kanallar",Fox TV
