@@ -20,7 +20,7 @@ http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2586?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="360.tr" tvg-logo="https://i.pinimg.com/736x/38/21/64/3821649bd71d9650950d53db7cc6103b.jpg" group-title="Kanallar",360
 http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/chunklist_b3128000.m3u8
 #EXTINF:0 tvg-id="FoxTurkey.us" tvg-logo="https://i.pinimg.com/736x/f7/81/24/f781243a95e9b95083a438a67a23e690.jpg" group-title="Kanallar",Fox TV
-https://mn-nl.mncdn.com/blutv_foxtv_dvr/live.m3u8
+https://mn-nl.mncdn.com/blutv_foxtv2/live.m3u8
 #EXTINF:0 tvg-id="TV100.tr" tvg-logo="https://i.pinimg.com/736x/ec/31/a1/ec31a1059f5493d2d8c297a1f513f6a1.jpg" group-title="Kanallar",TV100
 https://mn-nl.mncdn.com/blutv_tv1002/live_720p2000000kbps/index.m3u8
 #EXTINF:0 tvg-id="NTV.tr" tvg-logo="https://i.pinimg.com/564x/20/b1/93/20b193808a2558addb3489cae88b94e2.jpg" group-title="Kanallar",NTV
