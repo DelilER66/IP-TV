@@ -58,7 +58,7 @@ https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 tvg-id="SportsTV.tr" tvg-logo="https://i.pinimg.com/736x/a2/6e/6c/a26e6cdaa435a53463e02288694e7456.jpg" group-title="Kanallar",Sports TV
 https://mn-nl.mncdn.com/blutv_sportstv2/live_720p2000000kbps/index.m3u8
 #EXTINF:0 tvg-id="TRTBelgesel.tr" tvg-logo="https://i.pinimg.com/564x/bc/44/73/bc44734f8f88704ad476f9e89d2df1a1.jpg" group-title="Kanallar",TRT Belgesel
-https://tv-trtbelgesel.live.trt.com.tr/master_480.m3u8
+http://195.155.98.170:5858/play/a09o
 #EXTINF:1 tvg-id="AkilliTV.tr" tvg-logo="https://i.pinimg.com/236x/7a/71/08/7a710819a31e9bd18262377449fa45f1.jpg" group-title="Kanallar",Akıllı TV
 http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8
 #EXTINF:0 tvg-id="TRTCocuk.tr" tvg-logo="https://i.pinimg.com/564x/1a/e4/83/1ae483ebc66115bf6bec66f7064f8e8e.jpg" group-title="Kanallar",TRT Çocuk
