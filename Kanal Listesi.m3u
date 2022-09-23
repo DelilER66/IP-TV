@@ -6,7 +6,7 @@ https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:0 tvg-id="ATV.tr" tvg-logo="https://i.pinimg.com/564x/34/5e/9c/345e9cd67707215bcc1d188fa45b15fe.jpg" group-title="Kanallar",ATV
 https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8
 #EXTINF:0 tvg-id="KanalD.tr" tvg-logo="https://i.pinimg.com/564x/58/44/d7/5844d79ee800e7056cd48aaec97dc233.jpg" group-title="Kanallar",Kanal D
-https://mn-nl.mncdn.com/blutv_kanald2/live.m3u8?checkedby:iptvcat.com
+https://demiroren.daioncdn.net/kanald/kanald_720p.m3u8?sid=4r4411nhwk15&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
 #EXTINF:0 tvg-id="ShowTV.tr" tvg-logo="https://i.pinimg.com/564x/c1/58/da/c158da59484e8bc851069edead283bd1.jpg" group-title="Kanallar",Show TV
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="BeyazTV.tr" tvg-logo="https://i.pinimg.com/564x/80/36/fe/8036fe458fcd9112c839f6cc092917e8.jpg" group-title="Kanallar",Beyaz TV
