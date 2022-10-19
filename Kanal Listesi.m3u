@@ -38,7 +38,7 @@ https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8?st=Qo9NLuBL46ujqKxSgwRQ
 #EXTINF:0 tvg-id="TGRTHaber.tr" tvg-logo="https://i.pinimg.com/564x/90/56/a2/9056a2dcba2fceee9e2a299c8b98bb59.jpg" group-title="Kanallar",TGRT Haber
 https://mn-nl.mncdn.com/blutv_tgrthaber2/live_720p2000000kbps/index.m3u8
 #EXTINF:0 tvg-id="Haberturk.tr" tvg-logo="https://i.pinimg.com/564x/fd/af/58/fdaf58b9c42647bf21c59ce424af69b8.jpg" group-title="Kanallar",Habertürk
-https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
+https://59c7ea6bec1c6.streamlock.net/live/haberturk.stream/chunklist_w519009693.m3u8?hash=2809adbd427de01985f0c2460dda0f8f
 #EXTINF:0 tvg-id="24TV.tr" tvg-logo="https://i.pinimg.com/736x/2b/2c/df/2b2cdf61af5b43e870457de19b83e5a8.jpg" group-title="Kanallar",24 TV
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
 #EXTINF:0 tvg-id="TVNet.tr" tvg-logo="https://i.pinimg.com/736x/1d/b7/d3/1db7d3b93ce720569840fa79501d19d6.jpg" group-title="Kanallar",TV Net
