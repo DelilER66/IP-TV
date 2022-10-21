@@ -66,7 +66,7 @@ http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8
 #EXTINF:0 tvg-id="TRTCocuk.tr" tvg-logo="https://i.pinimg.com/564x/1a/e4/83/1ae483ebc66115bf6bec66f7064f8e8e.jpg" group-title="Kanallar",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master_480.m3u8
 #EXTINF:0 tvg-id="CartoonNetworkTurkey.tr" tvg-logo="https://i.pinimg.com/564x/cf/dc/bb/cfdcbb7232f0556f4080573136fca794.jpg" group-title="Kanallar",Cartoon Network
-https://ecanlitv1.etvserver.com/live_sd/cartoonnetwork/chunks.m3u8
+https://ecanlitv2.etvserver.com/live_sd/cartoonnetwork/chunks.m3u8?nimblesessionid=355157256&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjEvMjAyMiA0OjMwOjQ4IFBNJmhhc2hfdmFsdWU9QXNRZXRibXJ0bkxHRFR5U3ZFc0ZIdz09JnZhbGlkbWludXRlcz01
 #EXTINF:0 tvg-id="MinikaGo.tr" tvg-logo="https://i.pinimg.com/236x/8a/59/2d/8a592d42dbe6d711c79681226bb39269.jpg" group-title="Kanallar", Minika Go
 https://trkvz-live.ercdn.net/minikago/minikago_576p.m3u8
 
