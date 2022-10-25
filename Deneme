@@ -1,3 +1,0 @@
-#EXTM3U url-tvg ="https://iptv-org.github.io/epg/guides/tr/tvplus.com.tr.epg.xml.gz"
-#EXTINF:0 tvg-id="TRT1.tr" tvg-logo="https://i.pinimg.com/564x/93/f6/6b/93f66b4b8e610e37904dfcb48cc9e9b3.jpg" group-title="Kanallar",TRT 1
-http://cdn.adultiptv.net/asian.m3u8
