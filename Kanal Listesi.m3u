@@ -4,7 +4,7 @@ http://195.155.98.170:5858/play/a09j
 #EXTINF:0 tvg-id="StarTV.tr" tvg-logo="https://i.pinimg.com/564x/62/14/fc/6214fce3a5444b8799da947eca5991fe.jpg" group-title="Kanallar",Star TV
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:0 tvg-id="ATV.tr" tvg-logo="https://i.pinimg.com/564x/34/5e/9c/345e9cd67707215bcc1d188fa45b15fe.jpg" group-title="Kanallar",ATV
-https://trkvz.daioncdn.net/atv/atv_720p.m3u8?e=1668667484&st=57bVDw20DiC4ZdKg77y4mQ&sid=4wi4nadm9qne&app=d5eb593f-39d9-4b01-9cfd-4748e8332cf0&ce=3
+https://trkvz.daioncdn.net/atv/atv_720p.m3u8
 #EXTINF:0 tvg-id="KanalD.tr" tvg-logo="https://i.pinimg.com/564x/58/44/d7/5844d79ee800e7056cd48aaec97dc233.jpg" group-title="Kanallar",Kanal D
 https://demiroren.daioncdn.net/kanald/kanald_720p.m3u8?sid=4r4411nhwk15&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
 #EXTINF:0 tvg-id="ShowTV.tr" tvg-logo="https://i.pinimg.com/564x/c1/58/da/c158da59484e8bc851069edead283bd1.jpg" group-title="Kanallar",Show TV
